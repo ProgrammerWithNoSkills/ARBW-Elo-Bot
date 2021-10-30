@@ -1,31 +1,29 @@
 {
-  "name": "RBWEloBot",
+  "name": "rbwelobot",
   "version": "1.0.0",
-  "description": "Simple Ranked Bedwars Elo Bot",
+  "description": "This bot was designed to be an open-source ranked bedwars elo bot that was reliable and simple to use.",
   "main": "index.js",
-  "author": "suiseide#8744 and BIGOOF#5982",
-  "license": "GPL-2.0-only",
   "dependencies": {
     "discord.js": "^12.5.3",
     "discord.js-pagination": "^1.0.3",
     "dotenv": "^8.6.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.5",
     "node-html-to-image": "^3.2.0",
-    "sequelize": "^6.6.5",
+    "sequelize": "^6.8.0",
     "sqlite3": "^5.0.2"
   },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProgrammerWithNoSkills/RBWEloBot.git"
+    "url": "git+https://github.com/ProgrammerWithNoSkills/ARBWEloBot.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ProgrammerWithNoSkills/RBWEloBot/issues"
+    "url": "https://github.com/ProgrammerWithNoSkills/ARBWEloBot/issues"
   },
-  "homepage": "https://github.com/ProgrammerWithNoSkills/RBWEloBot#readme"
+  "homepage": "https://github.com/ProgrammerWithNoSkills/ARBWEloBot#readme"
 }
