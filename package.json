@@ -1,0 +1,31 @@
+{
+  "name": "RBWEloBot",
+  "version": "1.0.0",
+  "description": "Simple Ranked Bedwars Elo Bot",
+  "main": "index.js",
+  "author": "suiseide#8744 and BIGOOF#5982",
+  "license": "GPL-2.0-only",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "dotenv": "^8.6.0",
+    "node-fetch": "^2.6.1",
+    "node-html-to-image": "^3.2.0",
+    "sequelize": "^6.6.5",
+    "sqlite3": "^5.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgrammerWithNoSkills/RBWEloBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProgrammerWithNoSkills/RBWEloBot/issues"
+  },
+  "homepage": "https://github.com/ProgrammerWithNoSkills/RBWEloBot#readme"
+}

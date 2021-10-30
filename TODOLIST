@@ -1,0 +1,10 @@
+TODO:
+Fix command handler to allow async execution of commands(events)
+OCR
+Better scoring system
+Better striking system
+Better profile
+Integration into servers
+Softcoded Roles
+Autodeploy
+Updated databases for multiple servers
